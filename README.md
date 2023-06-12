@@ -1,4 +1,4 @@
-# odin recipes
+# ODIN RECIPES
 
 Trying out the new course in THE ODIN PROJECT.
 
